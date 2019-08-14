@@ -1,38 +1,40 @@
 {
-    "SapData": [{
-        "id": 1,
-        "JobNumber": "1001A",
-        "JobName": "Test Job 1001",
-		"ApplicantNumber": "ApplicantNumber 1001",
-		"ApplicantName": "App Job Name 1001",
-		"ResponsiblePersonNumber": "ResponsiblePersonNumber 1001",
-		"ResponsiblePersonName": "ResponsiblePersonName 1001",
-		"ResponsiblePersonEmail": "ResponsiblePersonEmail 1001",
-		"BranchId": "1",
-		"PMAtSiemensStatus": "1",
-		
-    }, {
-        "id": 2,
-        "JobNumber": "2002A",
-        "JobName": "Test Job 2002",
-		"ApplicantNumber": "ApplicantNumber 2002",
-		"ApplicantName": "App Job Name 2002",
-		"ResponsiblePersonNumber": "ResponsiblePersonNumber 2002",
-		"ResponsiblePersonName": "ResponsiblePersonName 2002",
-		"ResponsiblePersonEmail": "ResponsiblePersonEmail 2002",
-		"BranchId": "2",
-		"PMAtSiemensStatus": "2",
+  "SapData": [
+    {
+      "id": 1,
+      "JobNumber": "1001A",
+      "JobName": "Test Job 1001",
+      "ApplicantNumber": "ApplicantNumber 1001",
+      "ApplicantName": "App Job Name 1001",
+      "ResponsiblePersonNumber": "ResponsiblePersonNumber 1001",
+      "ResponsiblePersonName": "ResponsiblePersonName 1001",
+      "ResponsiblePersonEmail": "ResponsiblePersonEmail 1001",
+      "BranchId": "1",
+      "PMAtSiemensStatus": "1"
     },
-	 {
-        "id": 3,
-        "JobNumber": "3003A",
-        "JobName": "Test Job 3003",
-		"ApplicantNumber": "ApplicantNumber 3003",
-		"ApplicantName": "App Job Name 3003",
-		"ResponsiblePersonNumber": "ResponsiblePersonNumber 3003",
-		"ResponsiblePersonName": "ResponsiblePersonName 3003",
-		"ResponsiblePersonEmail": "ResponsiblePersonEmail 3003",
-		"BranchId": "3",
-		"PMAtSiemensStatus": "3",
-    }]
+    {
+      "id": 2,
+      "JobNumber": "2002A",
+      "JobName": "Test Job 2002",
+      "ApplicantNumber": "ApplicantNumber 2002",
+      "ApplicantName": "App Job Name 2002",
+      "ResponsiblePersonNumber": "ResponsiblePersonNumber 2002",
+      "ResponsiblePersonName": "ResponsiblePersonName 2002",
+      "ResponsiblePersonEmail": "ResponsiblePersonEmail 2002",
+      "BranchId": "2",
+      "PMAtSiemensStatus": "2"
+    },
+    {
+      "id": 3,
+      "JobNumber": "3003A",
+      "JobName": "Test Job 3003",
+      "ApplicantNumber": "ApplicantNumber 3003",
+      "ApplicantName": "App Job Name 3003",
+      "ResponsiblePersonNumber": "ResponsiblePersonNumber 3003",
+      "ResponsiblePersonName": "ResponsiblePersonName 3003",
+      "ResponsiblePersonEmail": "ResponsiblePersonEmail 3003",
+      "BranchId": "3",
+      "PMAtSiemensStatus": "3"
+    }
+  ]
 }
