@@ -8,7 +8,7 @@
       "ApplicantName": "App Job Name 1001",
       "ResponsiblePersonNumber": "ResponsiblePersonNumber 1001",
       "ResponsiblePersonName": "ResponsiblePersonName 1001",
-      "ResponsiblePersonEmail": "ResponsiblePersonEmail 1001",
+      "ResponsiblePersonEmail": "ResponsiblePersonEmail1001@email.com",
       "BranchId": "1",
       "PMAtSiemensStatus": "1"
     },
@@ -20,7 +20,7 @@
       "ApplicantName": "App Job Name 2002",
       "ResponsiblePersonNumber": "ResponsiblePersonNumber 2002",
       "ResponsiblePersonName": "ResponsiblePersonName 2002",
-      "ResponsiblePersonEmail": "ResponsiblePersonEmail 2002",
+      "ResponsiblePersonEmail": "ResponsiblePersonEmail2002@email.com",
       "BranchId": "2",
       "PMAtSiemensStatus": "2"
     },
@@ -32,7 +32,7 @@
       "ApplicantName": "App Job Name 3003",
       "ResponsiblePersonNumber": "ResponsiblePersonNumber 3003",
       "ResponsiblePersonName": "ResponsiblePersonName 3003",
-      "ResponsiblePersonEmail": "ResponsiblePersonEmail 3003",
+      "ResponsiblePersonEmail": "ResponsiblePersonEmail3003@email.com",
       "BranchId": "3",
       "PMAtSiemensStatus": "3"
     }
